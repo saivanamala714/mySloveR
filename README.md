@@ -1,0 +1,2 @@
+# mySloveR
+Status sharing app
